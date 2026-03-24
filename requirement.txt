@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+lazypredict
+flaml
+shap
+gradio
+matplotlib
+seaborn
+biopython
+ucimlrepo
+joblib
+imbalanced-learn
