@@ -1,0 +1,22 @@
+# model files
+*.pkl
+*.h5
+
+# data and outputs
+data/
+checkpoints/
+outputs/
+reports/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# colab notebooks
+*.ipynb
+
+# env
+.env
+venv/
